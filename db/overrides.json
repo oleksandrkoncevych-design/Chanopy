@@ -1,0 +1,156 @@
+[
+ {
+  "youtube_id": "UCv83SO3cPBtCBhqX7HSZj7g",
+  "label": "Музика",
+  "was": "Книги",
+  "name": "ALONA Music",
+  "note": "музичний виконавець у групі «Книги»"
+ },
+ {
+  "youtube_id": "UCqjVtGDxy-t-x7oaJLX1uBQ",
+  "label": "Музика",
+  "was": "Подкасти",
+  "name": "PALAY MUSIC",
+  "note": "музика в групі «Подкасти»"
+ },
+ {
+  "youtube_id": "UCdIUUbZNHvcE3YB7nxu3IaQ",
+  "label": "Музика",
+  "was": "Реакції",
+  "name": "Renomty Music",
+  "note": "музика в групі «Реакції»"
+ },
+ {
+  "youtube_id": "UCxyZRO1aTcy804RoE4kGyMw",
+  "label": "K-pop",
+  "was": "Ремонт і обробка",
+  "name": "K-Pop Universe",
+  "note": "K-pop в групі «Ремонт і обробка»"
+ },
+ {
+  "youtube_id": "UCOvQ0zlGiyn2bhUrF0xmHpg",
+  "label": "Аудіокниги",
+  "was": "Вивчення мов",
+  "name": "Аудіокниги біля моря",
+  "note": "аудіокниги, а не вивчення мов"
+ },
+ {
+  "youtube_id": "UCL2ZLhls-AkH17szwyjmRLA",
+  "label": "Вивчення мов",
+  "was": "Озвучення",
+  "name": "Flawless English",
+  "note": "вивчення англійської в групі «Озвучення»"
+ },
+ {
+  "youtube_id": "UCWc-LzcVE_SAEO8_mHyKoCg",
+  "label": "Освіта шкільна",
+  "was": "Трансляції",
+  "name": "Школа KEVIN  | підготовка НМТ ЗНО",
+  "note": "підготовка до НМТ/ЗНО в групі-форматі «Трансляції»"
+ },
+ {
+  "youtube_id": "UCMc-YunhJM1hzT5Xdkz2rxQ",
+  "label": "Книги",
+  "was": "Рукоділля",
+  "name": "Видавництво Навчальна книга — Богдан",
+  "note": "видавництво в групі «Рукоділля»"
+ },
+ {
+  "youtube_id": "UC9xjlxJne_PU0oEroCvWQ2A",
+  "label": "Психологія",
+  "was": "Вивчення мов",
+  "name": "Психолог з освітою  🇺🇦",
+  "note": "психологія в групі «Вивчення мов»"
+ },
+ {
+  "youtube_id": "UCDT7zEoknSIjKHG7mxZ46Eg",
+  "label": "Психологія",
+  "was": "Про все",
+  "name": "Психолог Якуб‘як",
+  "note": "психологія у «сміттєвій» групі «Про все»"
+ },
+ {
+  "youtube_id": "UCRddJ7RpEeoG559WkPvnK7A",
+  "label": "Гроші та фінанси",
+  "was": "Айті (IT)",
+  "name": "cryptonite – Крипта. Біткоїн. Заробіток 🇺🇦",
+  "note": "крипта і заробіток в групі «Айті (IT)»"
+ },
+ {
+  "youtube_id": "UCbZbpRYL6ZRf3-d0VgVgaLg",
+  "label": "Кулінарія",
+  "was": "Господарство",
+  "name": "Швидкі рецепти",
+  "note": "рецепти в групі «Господарство»"
+ },
+ {
+  "youtube_id": "UCn6TVl7Mi4_cMP22dIKt92Q",
+  "label": "Кулінарія",
+  "was": "Господарство",
+  "name": "КУХНЯ З КИШЕНІ & СПРАВИ ДОМАШНІ. (Щастя ЖИТИ).",
+  "note": "кухня в групі «Господарство»"
+ },
+ {
+  "youtube_id": "UCk1KCRh5LklSa9MZWe348vA",
+  "label": "Релігія",
+  "was": "Шортси",
+  "name": "Церква Спасителя Христа м.Львів",
+  "note": "релігійна громада в групі-форматі «Шортси»"
+ },
+ {
+  "youtube_id": "UCsOHru9bLL_mtkKRYW46I2g",
+  "label": "Айті (IT)",
+  "was": "Вивчення мов",
+  "name": "Python Decoded",
+  "note": "програмування в групі «Вивчення мов»"
+ },
+ {
+  "youtube_id": "UCdJbjlEkIW1RQHlxmruAEDQ",
+  "label": "Музика",
+  "was": "Релігія",
+  "name": "Гурт <>",
+  "note": "рішення користувача: так"
+ },
+ {
+  "youtube_id": "UCkrmhyPrkKbuKwEbF9VBGcg",
+  "label": "Музика",
+  "was": "Гумор",
+  "name": "Stodola UA / УКРАЇНСЬКА музика",
+  "note": "рішення користувача: так"
+ },
+ {
+  "youtube_id": "UCWy1htLqYCUn_TeKLnPrvKg",
+  "label": "Подкасти",
+  "was": "Здоров'я",
+  "name": "Подкаст 4:19",
+  "note": "рішення користувача: так"
+ },
+ {
+  "youtube_id": "UCmdrDkarjomCMtFzHOC9PbA",
+  "label": "Футбол",
+  "was": "Суспільство",
+  "name": "Футбольний | Максим Гіленко",
+  "note": "рішення користувача: так"
+ },
+ {
+  "youtube_id": "UCmZDk9uCizcxTzanGRhyIjw",
+  "label": "Шахи",
+  "was": "Танки",
+  "name": "Шахматные Разборки",
+  "note": "рішення користувача: так"
+ },
+ {
+  "youtube_id": "UCxGUqHpFxtzJSqzsUl5JSkg",
+  "label": "Рукоділля",
+  "was": "Гроші та фінанси",
+  "name": "MariVirra Handmade",
+  "note": "рішення користувача: так"
+ },
+ {
+  "youtube_id": "UC2lLW4yGEe7s0LYS7CtaNIg",
+  "label": "Книги",
+  "was": "Комікси",
+  "name": "Beauty and Gloom",
+  "note": "рішення користувача: «група книги»"
+ }
+]

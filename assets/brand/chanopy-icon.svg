@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Chanopy: grouped video cards">
+  <rect width="128" height="128" rx="29" fill="#172554"/>
+  <rect x="21" y="25" width="66" height="58" rx="12" fill="#3B82F6"/>
+  <rect x="31" y="35" width="66" height="58" rx="12" fill="#60A5FA"/>
+  <rect x="41" y="45" width="66" height="58" rx="12" fill="#2DD4BF"/>
+  <path d="M64 62.5a3.5 3.5 0 0 1 5.3-3l17 10.5a3.5 3.5 0 0 1 0 6l-17 10.5a3.5 3.5 0 0 1-5.3-3z" fill="#172554"/>
+</svg>

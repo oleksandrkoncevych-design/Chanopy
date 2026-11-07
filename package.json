@@ -1,0 +1,10 @@
+{
+  "name": "chanopy-chrome-extension",
+  "version": "0.6.0",
+  "private": true,
+  "description": "Packaging and regression checks for the Chanopy Chrome extension",
+  "scripts": {
+    "test": "node --test tools/regression-tests.cjs",
+    "package": "powershell -NoProfile -ExecutionPolicy Bypass -File tools/package-extension.ps1"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "manifest_version": 3,
+  "name": "Chanopy",
+  "version": "0.6.0",
+  "minimum_chrome_version": "111",
+  "description": "Organize your YouTube subscriptions into groups with custom feeds. No API key required.",
+  "permissions": [
+    "storage",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://youtube.com/*",
+    "https://pockettube.io/*"
+  ],
+  "background": {
+    "service_worker": "dist/background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*",
+        "https://youtube.com/*"
+      ],
+      "js": [
+        "dist/locales.js",
+        "dist/content-bundle.js"
+      ],
+      "css": [
+        "dist/content-bundle.css",
+        "dist/workspace.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "dist/popup.html",
+    "default_icon": {
+      "16": "assets/icons/icon16.png",
+      "48": "assets/icons/icon48.png",
+      "128": "assets/icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "assets/icons/icon16.png",
+    "48": "assets/icons/icon48.png",
+    "128": "assets/icons/icon128.png"
+  }
+}

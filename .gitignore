@@ -1,0 +1,25 @@
+node_modules/
+release/
+*.zip
+
+# Local classification work and audit exports; not required to run the extension.
+slim.jsonl
+new_results.jsonl
+TubeStack_channels_sorting_review_*.json
+AUDIT_REPORT*.md
+
+# Local and OS secrets/configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+Thumbs.db
+Desktop.ini
+
+# Temporary upstream checkout and local classification tooling
+upstream-source/
+db/results.jsonl
+tools/ptan.txt
+tools/findpt.py
+tools/ptanalyze.py

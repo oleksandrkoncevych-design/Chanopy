@@ -2,6 +2,12 @@
 
 Chanopy is a Chrome extension for organizing YouTube subscriptions into groups and subgroups.
 
+## Українською
+
+Chanopy — розширення для Chrome, яке допомагає впорядкувати підписки YouTube у групи та підгрупи. Воно додає навігацію й керування підписками безпосередньо в інтерфейс YouTube, підтримує пошук каналів, імпорт та експорт даних, синхронізацію й перевірку активності каналів. Інтерфейс доступний українською, англійською, іспанською, португальською, німецькою, французькою, польською та італійською.
+
+Chanopy розвинено на основі відкритого розширення [TubeStack](https://github.com/TubeStack/TubeStack) і поширюється за ліцензією GPL-3.0. Інструкції зі встановлення та перевірки наведені нижче.
+
 ## Features
 
 - Organize subscriptions into groups and nested subgroups.

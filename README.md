@@ -16,11 +16,13 @@ The built-in sorting catalog contains **11,829 Ukrainian YouTube channels**. You
 
 ### Features
 
-- Organize subscriptions into groups and nested subgroups.
-- Browse and search channels from YouTube.
-- Import and export subscriptions and backups.
-- Synchronize subscriptions and check channel activity.
-- Use the interface in eight languages.
+- **Channels:** browse, search, and filter subscriptions by group.
+- **Groups:** create nested groups, reorder them by dragging, and collapse the tree.
+- **Auto-sorting:** use the catalog of 11,829 Ukrainian YouTube channels or create a catalog for another language or community.
+- **YouTube integration:** access groups in the sidebar, open group video feeds, and use extension buttons on channel and video pages.
+- **Activity:** check channel activity, select inactive channels, unsubscribe in bulk, and review unsubscribe history.
+- **Import and backups:** import Google Takeout CSV or PocketTube data, import and export backups, and create weekly backups.
+- **Settings:** configure feed and sidebar placement, track watched videos, and choose from eight interface languages.
 
 ### Install from source
 
@@ -61,11 +63,13 @@ Chanopy — розширення для Chrome, яке допомагає впо
 
 ### Можливості
 
-- Об’єднання підписок у групи та вкладені підгрупи.
-- Перегляд і пошук каналів безпосередньо в YouTube.
-- Імпорт та експорт підписок і резервних копій.
-- Синхронізація підписок і перевірка активності каналів.
-- Інтерфейс вісьмома мовами.
+- **Канали:** перегляд, пошук і фільтрування підписок за групами.
+- **Групи:** створення вкладених груп, сортування перетягуванням і згортання дерева.
+- **Автосортування:** каталог із 11 829 каналів українського YouTube або власна база для іншої мови чи спільноти.
+- **Інтеграція з YouTube:** групи в бічній панелі, стрічки відео груп і кнопки розширення на сторінках каналів та відео.
+- **Активність:** перевірка каналів, вибір неактивних, масове відписування та історія відписок.
+- **Імпорт і резервні копії:** Google Takeout CSV, PocketTube, імпорт та експорт копій, щотижневі резервні копії.
+- **Налаштування:** параметри стрічки й розташування груп, облік переглянутих відео та вибір однієї з восьми мов інтерфейсу.
 
 ### Встановлення з вихідних файлів
 

@@ -12,11 +12,15 @@
 
 Chanopy is a Chrome extension that helps organize YouTube subscriptions into groups and subgroups. It adds subscription navigation and management to YouTube, with channel search, import and export, synchronization, and channel activity checks. The interface is available in Ukrainian, English, Spanish, Portuguese, German, French, Polish, and Italian.
 
+The built-in sorting catalog contains 11,829 Ukrainian YouTube channels. You can create a catalog for another language or community. See [`db/README.md`](db/README.md) for the format and instructions.
+
 Chanopy is based on and extends the open-source [TubeStack](https://github.com/TubeStack/TubeStack) extension. It is distributed under GPL-3.0.
 
 ## Українською
 
 Chanopy — розширення для Chrome, яке допомагає впорядкувати підписки YouTube у групи та підгрупи. Воно додає навігацію й керування підписками безпосередньо в YouTube, підтримує пошук каналів, імпорт та експорт, синхронізацію й перевірку активності каналів. Інтерфейс доступний українською, англійською, іспанською, португальською, німецькою, французькою, польською та італійською.
+
+Вбудована база для сортування містить 11 829 каналів українського YouTube. Можна створити базу для іншої мови або спільноти. Формат і інструкція — у [`db/README.md`](db/README.md).
 
 Chanopy створено на основі відкритого розширення [TubeStack](https://github.com/TubeStack/TubeStack) та розвинуто далі. Ліцензія проєкту — GPL-3.0.
 
